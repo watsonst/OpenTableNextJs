@@ -4,8 +4,11 @@ Next install: https://beta.nextjs.org/docs/installation
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Tailwinds: https://tailwindcss.com/docs/guides/nextjs spesific intall versions: npm install -D tailwindcss@3.2.4 postcss@8.4.20 autoprefixer@10.4.13
+Tailwinds: https://tailwindcss.com/docs/guides/nextjs spesific install versions: 
 
+```bash
+npm install -D tailwindcss@3.2.4 postcss@8.4.20 autoprefixer@10.4.13
+```
 ## Getting Started
 
 First, run the development server:
